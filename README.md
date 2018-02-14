@@ -20,4 +20,4 @@ L15 Efficient Methods and Hardware for Deep Learning<br>
 L16 Adversarial Examples and Adversarial Training<br>
 
 
-Some codes in the course
+Some code in the course
